@@ -9,7 +9,7 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="808fe223-6787-402c-8d97-ca5a89daf071" configVersion="caf650a55f86604b81c784ddacb03fac00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="808fe223-6787-402c-8d97-ca5a89daf071.0" configVersion="a9ebd7b17312fd40877b802ca312604c00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="6ea7191b-4e3c-4332-aa08-34906ff30fa9" configVersion="4a72a1c8280fa74f969ac3b6a88d055600000000"/>
-		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="6bea4155d8415744822766a31edf481c00000000"/>
+		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="9ed25faaca5bc8459edd7c05db6e1bbf00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="96caad80-cf7c-4e5f-94cf-bb598b4361d1" configVersion="af08c783ef76fa41ad37147bebe8684a00000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="2412cbfa-232e-4a53-ba98-83e32407681e"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="896a0c74-38d6-4784-a67f-6f0f73993c1a"/>
@@ -21,6 +21,8 @@
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0" configVersion="ce53121139914d44b8ceb426e497302700000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0.0" configVersion="979378f4260fdb4d9b5463a95a97298b00000000"/>
 		<Metadata name="Language.Русский" id="2fa03398-fec5-4941-b23f-edb916ea7f54" configVersion="6f5e805b11705842bab81a60e5a33cba00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a" configVersion="969f8ea570f3f142b4c124071cf3c3ea00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a.0" configVersion="eae35eca31b2434fb8f07c747b02e73900000000"/>
 		<Metadata name="Subsystem.Покупки" id="d6c608f7-bd67-4bf7-b603-68b7fe2fea3f" configVersion="ff88b897910e2f4e95458bf2f6bc8c9600000000"/>
 		<Metadata name="Subsystem.Справочники" id="10ceaec4-6142-4aed-8879-51f2706b8828" configVersion="2f05bc73ccae1f47b10d5c31b8f6cc8c00000000"/>
 	</ConfigVersions>

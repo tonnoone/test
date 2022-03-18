@@ -237,6 +237,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Покупки</Subsystem>
+			<Role>ПолныеПрава</Role>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Document>ПриходнаяНакладная</Document>
