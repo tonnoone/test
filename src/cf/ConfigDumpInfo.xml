@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="ddb7e7df4f40164d8d55257475ef2b3700000000"/>
+		<Metadata name="Catalog.Контрагенты" id="c83eb9f9-3cc3-4e3d-909e-3866748fa1a3" configVersion="df71a3227d789447876c11e98d848dc700000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="808fe223-6787-402c-8d97-ca5a89daf071" configVersion="caf650a55f86604b81c784ddacb03fac00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="808fe223-6787-402c-8d97-ca5a89daf071.0" configVersion="a9ebd7b17312fd40877b802ca312604c00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="6ea7191b-4e3c-4332-aa08-34906ff30fa9" configVersion="4a72a1c8280fa74f969ac3b6a88d055600000000"/>
+		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="e97d4318c70ea14eab08cea5d61febde00000000"/>
 		<Metadata name="Language.Русский" id="2fa03398-fec5-4941-b23f-edb916ea7f54" configVersion="6f5e805b11705842bab81a60e5a33cba00000000"/>
+		<Metadata name="Subsystem.Справочники" id="10ceaec4-6142-4aed-8879-51f2706b8828" configVersion="2f05bc73ccae1f47b10d5c31b8f6cc8c00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
