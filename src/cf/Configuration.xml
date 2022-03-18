@@ -236,8 +236,11 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Покупки</Subsystem>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>ПриходнаяНакладная</Document>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

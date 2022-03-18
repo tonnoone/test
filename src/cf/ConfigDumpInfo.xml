@@ -1,12 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиТоваров" id="1b7e0a6b-7546-4022-8bb1-ef50a560a395" configVersion="30ba6578abb2194fa40c53e1a63cc28300000000">
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Dimension.Номенклатура" id="1d814282-83a1-43fd-a213-ceffc6d535b9"/>
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Resource.Количество" id="d51a6278-f315-4bfa-9b9b-5ce6536793ef"/>
+		</Metadata>
 		<Metadata name="Catalog.Контрагенты" id="c83eb9f9-3cc3-4e3d-909e-3866748fa1a3" configVersion="df71a3227d789447876c11e98d848dc700000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="808fe223-6787-402c-8d97-ca5a89daf071" configVersion="caf650a55f86604b81c784ddacb03fac00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="808fe223-6787-402c-8d97-ca5a89daf071.0" configVersion="a9ebd7b17312fd40877b802ca312604c00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="6ea7191b-4e3c-4332-aa08-34906ff30fa9" configVersion="4a72a1c8280fa74f969ac3b6a88d055600000000"/>
-		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="e97d4318c70ea14eab08cea5d61febde00000000"/>
+		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="6bea4155d8415744822766a31edf481c00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="96caad80-cf7c-4e5f-94cf-bb598b4361d1" configVersion="af08c783ef76fa41ad37147bebe8684a00000000">
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="2412cbfa-232e-4a53-ba98-83e32407681e"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="896a0c74-38d6-4784-a67f-6f0f73993c1a"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Сумма" id="a82809b6-6bfc-47fd-a181-853a5e35276e"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="bdd07f50-a80d-41c7-a17c-cca665374801"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="f6203428-c7e3-4e5d-95f9-8c0494cda243"/>
+			<Metadata name="Document.ПриходнаяНакладная.Attribute.Контрагент" id="ff704ca5-6188-41f9-9590-82284b525fe5"/>
+		</Metadata>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0" configVersion="ce53121139914d44b8ceb426e497302700000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0.0" configVersion="979378f4260fdb4d9b5463a95a97298b00000000"/>
 		<Metadata name="Language.Русский" id="2fa03398-fec5-4941-b23f-edb916ea7f54" configVersion="6f5e805b11705842bab81a60e5a33cba00000000"/>
+		<Metadata name="Subsystem.Покупки" id="d6c608f7-bd67-4bf7-b603-68b7fe2fea3f" configVersion="ff88b897910e2f4e95458bf2f6bc8c9600000000"/>
 		<Metadata name="Subsystem.Справочники" id="10ceaec4-6142-4aed-8879-51f2706b8828" configVersion="2f05bc73ccae1f47b10d5c31b8f6cc8c00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
