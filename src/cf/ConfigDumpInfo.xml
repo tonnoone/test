@@ -26,7 +26,7 @@
 		<Metadata name="Language.Русский" id="2fa03398-fec5-4941-b23f-edb916ea7f54" configVersion="6f5e805b11705842bab81a60e5a33cba00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a" configVersion="969f8ea570f3f142b4c124071cf3c3ea00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a.0" configVersion="eae35eca31b2434fb8f07c747b02e73900000000"/>
-		<Metadata name="Subsystem.Покупки" id="d6c608f7-bd67-4bf7-b603-68b7fe2fea3f" configVersion="ff88b897910e2f4e95458bf2f6bc8c9600000000"/>
+		<Metadata name="Subsystem.Покупки" id="d6c608f7-bd67-4bf7-b603-68b7fe2fea3f" configVersion="c3780e77d303dd4aa86ff36a9cebf02700000000"/>
 		<Metadata name="Subsystem.Справочники" id="10ceaec4-6142-4aed-8879-51f2706b8828" configVersion="6979c49e74bce44a97b9986a047b8b9700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
