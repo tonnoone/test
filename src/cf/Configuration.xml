@@ -241,6 +241,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Организации</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>

@@ -9,15 +9,17 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="808fe223-6787-402c-8d97-ca5a89daf071" configVersion="caf650a55f86604b81c784ddacb03fac00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="808fe223-6787-402c-8d97-ca5a89daf071.0" configVersion="a9ebd7b17312fd40877b802ca312604c00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="6ea7191b-4e3c-4332-aa08-34906ff30fa9" configVersion="4a72a1c8280fa74f969ac3b6a88d055600000000"/>
+		<Metadata name="Catalog.Организации" id="151333c8-1594-45fc-a942-bf6b3064214c" configVersion="e8b91978ee89a8409c774dd564d633e500000000"/>
 		<Metadata name="Catalog.Склады" id="b8e00ba5-50be-4741-8866-1948f11d41bf" configVersion="bb4f3b3207281042bb4ad6b784180bee00000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="442644a3-4b46-4796-a88f-61db054f521b" configVersion="f1dc96371955be41af4ad0dd4bd5fa2000000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента.Form" id="442644a3-4b46-4796-a88f-61db054f521b.0" configVersion="c1020e03589e024cbf1d8781030b977500000000"/>
-		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="e8df3fbc056ab44b963a65982cd67d1300000000"/>
-		<Metadata name="Document.ПриходнаяНакладная" id="96caad80-cf7c-4e5f-94cf-bb598b4361d1" configVersion="67b8c2f2deab2b409e28cf2e500cb8c900000000">
+		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="74f59eaf08c08a4cab5421ece2f046a900000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="96caad80-cf7c-4e5f-94cf-bb598b4361d1" configVersion="2a09f1f4300f94488f3a41558aa54d8900000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="2412cbfa-232e-4a53-ba98-83e32407681e"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="896a0c74-38d6-4784-a67f-6f0f73993c1a"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Сумма" id="a82809b6-6bfc-47fd-a181-853a5e35276e"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="bdd07f50-a80d-41c7-a17c-cca665374801"/>
+			<Metadata name="Document.ПриходнаяНакладная.Attribute.Организация" id="be2d16d4-684f-434f-b966-cad5048f723f"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="f33a7e25-2c0a-4486-b2de-6056aa8ef761"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="f6203428-c7e3-4e5d-95f9-8c0494cda243"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Контрагент" id="ff704ca5-6188-41f9-9590-82284b525fe5"/>
