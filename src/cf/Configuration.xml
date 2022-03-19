@@ -240,6 +240,7 @@
 			<Role>ПолныеПрава</Role>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
