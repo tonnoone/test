@@ -24,8 +24,8 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="f6203428-c7e3-4e5d-95f9-8c0494cda243"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Контрагент" id="ff704ca5-6188-41f9-9590-82284b525fe5"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0" configVersion="ecce9d8e23db344687888bf01c3b7bd800000000"/>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0.0" configVersion="e9881f156df15e4c97403b0c9d35466000000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0" configVersion="7a5ee192bfa5a84a941e365ae6c1cf5c00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="27368d14-b7d4-4be2-88c1-df8236cc7ed0.0" configVersion="738b692e8d15a242a0fb7b8454da602800000000"/>
 		<Metadata name="Language.Русский" id="2fa03398-fec5-4941-b23f-edb916ea7f54" configVersion="6f5e805b11705842bab81a60e5a33cba00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a" configVersion="969f8ea570f3f142b4c124071cf3c3ea00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="8bd41fc6-77c5-4091-abbd-f6752758cf1a.0" configVersion="eae35eca31b2434fb8f07c747b02e73900000000"/>

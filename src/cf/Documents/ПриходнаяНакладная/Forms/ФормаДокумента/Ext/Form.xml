@@ -38,6 +38,11 @@
 				</InputField>
 			</ChildItems>
 		</UsualGroup>
+		<InputField name="Организация" id="43">
+			<DataPath>Объект.Организация</DataPath>
+			<ContextMenu name="ОрганизацияКонтекстноеМеню" id="44"/>
+			<ExtendedTooltip name="ОрганизацияРасширеннаяПодсказка" id="45"/>
+		</InputField>
 		<InputField name="Контрагент" id="7">
 			<DataPath>Объект.Контрагент</DataPath>
 			<EditMode>EnterOnInput</EditMode>
