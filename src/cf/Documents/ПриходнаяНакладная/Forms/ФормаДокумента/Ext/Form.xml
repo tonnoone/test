@@ -44,6 +44,11 @@
 			<ContextMenu name="КонтрагентКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="КонтрагентРасширеннаяПодсказка" id="9"/>
 		</InputField>
+		<InputField name="Склад" id="40">
+			<DataPath>Объект.Склад</DataPath>
+			<ContextMenu name="СкладКонтекстноеМеню" id="41"/>
+			<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="42"/>
+		</InputField>
 		<Table name="Товары" id="10">
 			<Representation>List</Representation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
