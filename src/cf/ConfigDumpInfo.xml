@@ -9,10 +9,11 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="808fe223-6787-402c-8d97-ca5a89daf071" configVersion="caf650a55f86604b81c784ddacb03fac00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="808fe223-6787-402c-8d97-ca5a89daf071.0" configVersion="a9ebd7b17312fd40877b802ca312604c00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="6ea7191b-4e3c-4332-aa08-34906ff30fa9" configVersion="4a72a1c8280fa74f969ac3b6a88d055600000000"/>
-		<Metadata name="Catalog.Организации" id="151333c8-1594-45fc-a942-bf6b3064214c" configVersion="157ba033cdc46a44aa703b50e85c366800000000">
+		<Metadata name="Catalog.Организации" id="151333c8-1594-45fc-a942-bf6b3064214c" configVersion="245ad25e0a4a7142afda9574a8d521de00000000">
 			<Metadata name="Catalog.Организации.Attribute.ОГРН" id="3aba179f-b1fa-485e-ac3c-e7b43912a9f2"/>
 			<Metadata name="Catalog.Организации.Attribute.КПП" id="98ff03c3-3596-4416-9ca3-ef9e5e8c9e91"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="a3fe3201-6d03-429f-88d5-82d9241d3126"/>
+			<Metadata name="Catalog.Организации.Attribute.ОКПО" id="f3a82671-64b6-4c3a-ad54-4a0c6df39886"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="b8e00ba5-50be-4741-8866-1948f11d41bf" configVersion="bb4f3b3207281042bb4ad6b784180bee00000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="442644a3-4b46-4796-a88f-61db054f521b" configVersion="f1dc96371955be41af4ad0dd4bd5fa2000000000"/>
