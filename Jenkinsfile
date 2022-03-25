@@ -32,8 +32,8 @@ pipeline {
 
 def cmd(command){
     if(isUnix()) {
-        sh "$(command)"
+        sh "${command}"
     } else {
-        bath "chcp 65001\n$(command)"
+        bath "chcp 65001\n${command}"
     }
 }
