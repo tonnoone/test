@@ -3,9 +3,7 @@ def uccode
 def lockParams
 
 pipeline {
-    agent {
-        label 'any'
-    }
+    agent any
 
     environment {
         Storage = credentials('Storage_CIBot')
