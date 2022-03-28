@@ -20,7 +20,7 @@
 		<Metadata name="Catalog.Склады" id="b8e00ba5-50be-4741-8866-1948f11d41bf" configVersion="bb4f3b3207281042bb4ad6b784180bee00000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="442644a3-4b46-4796-a88f-61db054f521b" configVersion="f1dc96371955be41af4ad0dd4bd5fa2000000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента.Form" id="442644a3-4b46-4796-a88f-61db054f521b.0" configVersion="c1020e03589e024cbf1d8781030b977500000000"/>
-		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="bc59988016a7c641b571435c42d60ce800000000"/>
+		<Metadata name="Configuration.ДымовыеТесты" id="dc24d8cd-8c9e-4386-b50c-c2e8afa13e15" configVersion="514af1d674bc5340bdeca67a6b02788e00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="96caad80-cf7c-4e5f-94cf-bb598b4361d1" configVersion="2a09f1f4300f94488f3a41558aa54d8900000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="2412cbfa-232e-4a53-ba98-83e32407681e"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="896a0c74-38d6-4784-a67f-6f0f73993c1a"/>
