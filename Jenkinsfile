@@ -25,6 +25,14 @@ pipeline {
                 }
             }
         }
+
+        stage('Проверка поведения') {
+            steps {
+                timestamps {
+                    cmd("vrunner vanessa --vanessasettings ./tools/VBParams.json --workspace . ibconnection ${connectionString}")
+                }
+            }
+        }
     }
 }
 
