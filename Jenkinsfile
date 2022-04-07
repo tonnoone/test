@@ -34,6 +34,11 @@ pipeline {
             }
         }
     }
+    post {
+        always {
+            allure includeProperties: false, jdk: '', results: [[path: 'allure/json_for_allure']]
+        }
+    }
 }
 
 def cmd(command){
