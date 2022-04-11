@@ -4,7 +4,7 @@ def lockParams
 
 pipeline {
     agent {
-        label 'Win037'
+        label 'Win036'
     }
 
     environment {
