@@ -21,7 +21,7 @@ pipeline {
                         lockParams          = "-lockmessage \"test\" -lockuccode ${uccode}"
                     }
                     cmd("deployka session lock -ras ${env:Server1C} -db ${env:Database1C} ${lockParams} -db-user ci-bot -db-pwd 123 -cluster-admin ${Cluster_Admin_Usr} -cluster-pwd ${Cluster_Admin_Psw}")
-                    cmd("deployka session kill -ras ${env:Server1C} -db ${env:Database1C} ${lockParams} -db-user ci-bot -db-pwd 123")
+                    cmd("deployka session kill -ras ${env:Server1C} -db ${env:Database1C} ${lockParams} -db-user ci-bot -db-pwd 123 -cluster-admin ${Cluster_Admin_Usr} -cluster-pwd ${Cluster_Admin_Psw}")
                     cmd("net use H: \\\\1c-as038\\REPO\\smoke_tests AccuSync2007 /USER:1c-as038\\jenkins")
                     cmd("deployka loadrepo ${connectionString} \"H:\" -storage-user ${env:Storage_Usr} -storage-pwd ${env:Storage_Psw} -v8version \"8.3.18.1334\" -db-user ci-bot -db-pwd 123 -uccode ${uccode}")
                     cmd("deployka dbupdate ${connectionString} -allow-warnings -uccode ${uccode} -db-user ci-bot -db-pwd 123 -v8version \"8.3.18.1334\"")
