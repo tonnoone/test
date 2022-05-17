@@ -245,6 +245,8 @@
 			<Catalog>Организации</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
+			<Enum>СтавкиНДС</Enum>
+			<Enum>ЮридическоеФизическоеЛицо</Enum>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
