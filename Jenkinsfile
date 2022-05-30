@@ -34,7 +34,7 @@ pipeline {
         stage('Проверка поведения') {
             steps {
                 timestamps {
-                    cmd("vrunner vanessa --vanessasettings ./tools/VBParams.json --workspace . --ibconnection ${connectionString} --db-user ci-bot --db-pwd 123 --v8version \"8.3.18.1334\"")
+                    cmd("vrunner vanessa --vanessasettings ./tools/VBParams.json --workspace . --ibconnection ${connectionString} --db-user ci-bot --db-pwd 123 --v8version \"8.3.18.1520\"")
                 }
             }
         }
