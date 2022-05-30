@@ -17,13 +17,12 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.СтавкаНДС" id="2bb3270d-1baf-46e2-b6c4-2963387acce1"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ПолноеНаименование" id="db1fdc59-700b-438e-b771-ac6cc80e80dd"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации" id="151333c8-1594-45fc-a942-bf6b3064214c" configVersion="224f5f9d465fa24082e2bceb886adb8e00000000">
+		<Metadata name="Catalog.Организации" id="151333c8-1594-45fc-a942-bf6b3064214c" configVersion="55b46aef85518b478992aea827d03bcc00000000">
 			<Metadata name="Catalog.Организации.Attribute.ГоловнаяОрганизация" id="04455136-6c33-49e6-93ea-1c291965924b"/>
 			<Metadata name="Catalog.Организации.Attribute.БанковскийСчет" id="1af357a7-6ce9-4c50-ba89-734859bbbe9b"/>
 			<Metadata name="Catalog.Организации.Attribute.ОГРН" id="3aba179f-b1fa-485e-ac3c-e7b43912a9f2"/>
 			<Metadata name="Catalog.Организации.Attribute.КПП" id="98ff03c3-3596-4416-9ca3-ef9e5e8c9e91"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="a3fe3201-6d03-429f-88d5-82d9241d3126"/>
-			<Metadata name="Catalog.Организации.Attribute.ЮридическоеФизическоеЛицо" id="b7af52a9-4038-41fc-bcb8-be2cde476f11"/>
 			<Metadata name="Catalog.Организации.Attribute.ОКПО" id="f3a82671-64b6-4c3a-ad54-4a0c6df39886"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады" id="b8e00ba5-50be-4741-8866-1948f11d41bf" configVersion="bb4f3b3207281042bb4ad6b784180bee00000000"/>
